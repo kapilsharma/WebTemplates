@@ -1,0 +1,10 @@
+body {background: url("../images/stressed_linen_@2x.png") scroll center top #C0C0C0;}
+
+/**********************************************************/
+/* Navbar customization                                   */
+/**********************************************************/
+.navbar {height:50px;opacity:0.4;filter:alpha(opacity=40);}
+.navbar-inverse .navbar-brand {color:#FF3300;}
+.navbar-nav>li {height:50px;}
+.ksi-submenu1 {min-width:150px;}
+.ksi-submenu2 {min-width:300px;}
